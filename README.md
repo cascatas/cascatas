@@ -8,11 +8,10 @@ eu to fazendo varios cursos sobre programação na Alura
 
 email para contato: @luiz.castro09@escola.pr.gov.br
 
-**_o que eu gosto de fazer_**
+## o que eu gosto de fazer
 
 ouvir musica
 street art
-caligrafia
-e carros
+e caligrafia
 
 tenho interesse em estudar caligrafia e design
